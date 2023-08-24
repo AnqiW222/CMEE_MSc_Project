@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # *MSc CEMM Project:* 
 
 ## Modelling Seagrass Growth Growing Patterns and Identifying the Impact Factor using Cellular Automata for Restoration Purposes
@@ -116,7 +115,7 @@ R script for testing the ANOVA for nutrient and current velocity experiments.
 
 - Capability to perform sensitivity analysis
 
-  ### Output
+### Output
 
   - Various visualizations of seagrass growth scenarios
   - CSV files representing the CA grid states at different time steps
@@ -136,7 +135,3 @@ All code has been written on a MacOS version 12.6 and any dependencies are detai
 
 **Name:** ANQI WANG
 **Email:** [aw222@ic.ac.uk](mailto:aw222@ic.ac.uk)
-=======
-# CMEE_MSc_Project
-CMEE MSc Project: Predicting high carbon seagrass sites to aid protection of coastal carbon stock
->>>>>>> 3ab93a3086c03dff45853145dca7ab629e666b23
