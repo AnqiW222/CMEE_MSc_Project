@@ -105,6 +105,10 @@ Performs sensitivity analysis to investigate the impact of environmental paramet
 
 R script for testing the ANOVA for nutrient and current velocity experiments.
 
+#### png2gif.py
+
+Covert .png to .gif for presentation slides.
+
 ### Features
 
 - Modular design for ease of experimentation
